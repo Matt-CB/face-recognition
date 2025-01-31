@@ -6,7 +6,7 @@ Face Detection Model: YunetOpencv
 Face Embedding Model: Facenet512  
 Vector Database: Pinecone  
 Indexing Algorithm Type: HNSW (Hierarchical Navigable Small World)  
-Similarity Metric: Cosine Similarity/Euclidian Distance  
+Similarity Metric: Cosine Similarity/Euclidean Distance  
 Search Algorithm: K-Nearest Neighbors (KNN)  
 
 
